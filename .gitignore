@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.env
+dist/
+build/
+*.egg-info/
+
+# Local development files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
